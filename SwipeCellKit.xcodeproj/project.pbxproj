@@ -168,17 +168,18 @@
 				TargetAttributes = {
 					3F234AC21E44A7A400E22A38 = {
 						CreatedOnToolsVersion = 8.2.1;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 3F234ABD1E44A7A400E22A38 /* Build configuration list for PBXProject "SwipeCellKit" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 3F234AB91E44A7A400E22A38;
 			productRefGroup = 3F234AC41E44A7A400E22A38 /* Products */;
@@ -366,7 +367,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -387,7 +388,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jerkoch.SwipeCellKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
